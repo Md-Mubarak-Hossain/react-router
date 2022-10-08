@@ -1,0 +1,20 @@
+.flex {
+    display: flex;
+    margin: 10px 100px;
+    padding: 30px;
+    border: 1px solid blue;
+    border-radius: 4px;
+    background-color: gray;
+    align-items: center;
+    justify-content: center;
+}
+
+.background {
+    border: 1px solid gray;
+    padding: 5px;
+    margin: 10px;
+    background-color: black;
+    color: white;
+    width: 260px;
+    height: 230px;
+}
