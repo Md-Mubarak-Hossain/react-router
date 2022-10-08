@@ -1,0 +1,28 @@
+.flex {
+    display: flex;
+    flex-direction: column;
+    margin: 10px 100px;
+    padding: 30px;
+    border: 1px solid blue;
+    border-radius: 4px;
+    background-color: gray;
+    align-items: center;
+    justify-content: center;
+}
+
+.background {
+    border: 1px solid red;
+    padding: 15px;
+    margin: 10px;
+    background-color: black;
+    color: white;
+    width: 360px;
+    height: 300px;
+    text-align: justify;
+
+}
+
+.title {
+    color: yellow;
+    font-weight: bold;
+}

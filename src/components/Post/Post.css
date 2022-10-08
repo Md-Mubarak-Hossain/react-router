@@ -1,0 +1,26 @@
+.post {
+
+    border: 2px solid red;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    background-color: black;
+    color: tomato;
+
+}
+
+.post .title {
+    color: blue;
+    font-size: large;
+    font-weight: bold;
+}
+
+button {
+    margin-bottom: 2px;
+    border-radius: 10px;
+    width: 100%;
+    padding: 10px 30px;
+    background-color: orange;
+    color: blue;
+    font-weight: bold;
+}
